@@ -2,7 +2,7 @@
 name: Software Development Plan
 about: This issue details the plan for a new software product.
 title: Enter the Product Title Here
-labels: 'Development Plan'
+labels: 'SDI'
 assignees: 'cmbengue-ec-intl'
 projects: ''
 milestone: ''
