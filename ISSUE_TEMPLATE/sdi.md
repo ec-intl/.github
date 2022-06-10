@@ -34,7 +34,4 @@ milestone: ''
 - [ ] Child Issue #1
 - [ ] Child Issue #2
 
-## Reviewers
-(Name the reviewers of this software solution)
-
-## Delivery Date
+## Proposed Delivery Date
