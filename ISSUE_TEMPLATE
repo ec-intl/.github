@@ -15,7 +15,10 @@ milestone: ''
 (Analyze the cost/benefits/risks associated with the proposal)
 
 ## People and Personnel
-(List the resources and personnel required/requested to implement the software solution)
+(@ the personnel required/requested to implement the software solution)
+- Lead:
+- Collaborators:
+- Reviewers:
 
 ## Components
 (Describe the main components of the software solution)
