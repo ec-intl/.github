@@ -1,5 +1,5 @@
 ---
-name: Software Development Plan
+name: Software Development Issue
 about: This issue details the plan for a new software product.
 title: Enter the Product Title Here
 labels: 'SDI'
