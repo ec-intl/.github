@@ -9,7 +9,7 @@ milestone: ''
 ---
 
 ## Purpose
-(State the purpose of this software product. What are the overall goals and objectives.)
+(State the purpose of this software product. What are the overall goals and objectives)
 
 ## Cost/Benefits/Risks
 (Analyze the cost/benefits/risks associated with the proposal)
@@ -35,3 +35,4 @@ milestone: ''
 - [ ] Child Issue #2
 
 ## Proposed Delivery Date
+(Your best estimate of the date this software solution will be completed)
