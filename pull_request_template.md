@@ -1,3 +1,8 @@
+---
+labels: 'Development Task'
+assignees: 'cmbengue-ec-intl'
+---
+
 # PULL REQUEST
 
 ## Purpose
