@@ -1,9 +1,9 @@
 
 ## Elizabeth Consulting International
 
-👋 Hi there 👋, Welcome to Elizabeth Consulting International's GitHub site.
+👋 Hi there 👋, Welcome to Elizabeth Consulting International's GitHub site. Our code is developed in public and private repositories on GitHub.
 
-## About
+## About ECI
 
 Elizabeth Consulting International (ec-intl) is a professional consulting services firm registered in Castries, Saint Lucia. We bring value to our clients by streamlining and automating their current processes; by helping them design new, competitive products and services that exploit modern technological advances; and by building resilience into their business model through risk and vulnerability assessments and adaptation and mitigation planing.
 
