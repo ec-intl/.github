@@ -1,11 +1,9 @@
 ---
-name: Software Development Issue
+name: Software Design Issue
 about: This issue details the plan for a new software product.
 title: Enter the Product Title Here
 labels: 'SDI'
 assignees: 'cmbengue-ec-intl'
-projects: ''
-milestone: ''
 ---
 
 ## Purpose
