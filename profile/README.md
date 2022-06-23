@@ -1,5 +1,5 @@
 
-# Elizabeth Consulting International
+# Elizabeth Consulting International Inc.
 
 👋 Hi there 👋, Welcome to Elizabeth Consulting International's GitHub site. Our code is developed in public and private repositories on GitHub.
 
