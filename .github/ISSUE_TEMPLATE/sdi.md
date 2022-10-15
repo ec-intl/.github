@@ -1,36 +1,40 @@
 ---
-name: Software Design Issue
+name: Software Development Plan
 about: This issue details the plan for a new software product.
-title: Enter the Product Title Here
-labels: 'SDI'
-assignees: 'cmbengue-ec-intl'
+labels: 'Development Plan'
 ---
+# Elizabeth Consulting International Inc
+## Software Development Plan
+### Purpose
+<!--- State the purpose of this software product. What are the overall goals and objectives. -->
 
-## Purpose
-(State the purpose of this software product. What are the overall goals and objectives)
+### Cost/Benefits/Risks
+<!--- Analyze the cost/benefits/risks associated with the proposal. -->
 
-## Cost/Benefits/Risks
-(Analyze the cost/benefits/risks associated with the proposal)
+### Producers
+<!--- List the resources and personnel required to implement the Proposal. -->
 
-## People and Personnel
-(@ the personnel required/requested to implement the software solution)
-- Lead:
-- Collaborators:
-- Reviewers:
+### Components
+<!--- Describe the main components of the software solution. -->
 
-## Components
-(Describe the main components of the software solution)
+### Inputs
+<!--- Describe the inputs to the software solution. -->
 
-## Inputs
-(Describe the inputs to the software solution)
+### Results and Deliverables
+<!--- Describe the key results, deliverables, quality expectations, and performance metrics. -->
 
-## Results and deliverables
-(Summarize of the key results, deliverables, quality expectations, and performance metrics)
+### Task breakdown
+<!--- A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results.
+- [ ] Task/PR 1
+- [ ] Task/PR 2 -->
 
-## Task Breakdown And Tentative Due Date
-(A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results)
-- [ ] Child Issue #1
-- [ ] Child Issue #2
+### Reviewers
+<!--- Name the reviewers of this software product.  -->
 
-## Proposed Delivery Date
-(Your best estimate of the date this software solution will be completed)
+### Delivery Schedule
+<!--- Estimate the delivery of interim products and the final product.  
+- Delivery Date: YYYY-MM-DD HH:MM:SS
+-->
+
+### CC
+@cmbengue-ec-intl
