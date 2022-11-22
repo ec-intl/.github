@@ -6,7 +6,7 @@ labels: 'Development Plan'
 # Elizabeth Consulting International Inc
 ## 📜 Software Development Plan 📜
 ### Purpose
-<!--- State the purpose of this software product. What are the overall goals and objectives. -->
+<!--- State the purpose of this software product. What are the overall goals and objectives? -->
 
 ### Cost/Benefits/Risks
 <!--- Analyze the cost/benefits/risks associated with the proposal. -->
@@ -33,7 +33,7 @@ labels: 'Development Plan'
 
 ### Delivery Schedule
 <!--- Estimate the delivery of interim products and the final product.  
-- Delivery Date: YYYY-MM-DD HH:MM:SS
+- Delivery Date: YYYY-MM-DD
 -->
 
 ### Plan's Metadata
