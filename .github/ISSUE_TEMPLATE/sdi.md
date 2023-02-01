@@ -6,33 +6,46 @@ labels: 'Development Plan'
 # Elizabeth Consulting International Inc
 ## 📜 Software Development Plan 📜
 ### Purpose
-<!--- State the purpose of this software product. What are the overall goals and objectives? -->
+<!-- State the purpose of this software product. What are the overall goals and objectives? -->
+#### Requirements
+<!-- Requirements of the solution. -->
+
+#### Quality Criteria
+<!-- A quantitative statement of the specifications that should be met. -->
+
+#### Approach
+<!-- How will you solve the associated probem. -->
 
 ### Cost/Benefits/Risks
-<!--- Analyze the cost/benefits/risks associated with the proposal. -->
+<!-- Analyze the cost/benefits/risks associated with the proposal. -->
 
-### Producers
-<!--- List the resources and personnel required to implement the Proposal. -->
+### Personnel and Resources
+<!-- List the resources and personnel required to implement the Proposal. 
+Lead: 
+Support:
+Reviewers:
+Other Stakeholders:
+-->
 
-### Components
-<!--- Describe the main components of the software solution. -->
+### Composition of the Solution
+<!-- Describe the main components of the software solution. -->
 
 ### Inputs
-<!--- Describe the inputs to the software solution. -->
+<!-- Describe the inputs to the software solution. -->
 
-### Results and Deliverables
-<!--- Describe the key results, deliverables, quality expectations, and performance metrics. -->
+### Key Results and Deliverables
+<!-- Describe the key results, deliverables, quality expectations, and performance metrics. -->
 
-### Task breakdown
-<!--- A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results.
+### Task Breakdown & Schedule
+<!-- A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results.
 - [ ] Task/PR 1
 - [ ] Task/PR 2 -->
 
 ### Reviewers
-<!--- Name the reviewers of this software product.  -->
+<!-- Name the reviewers of this software product.  -->
 
-### Delivery Schedule
-<!--- Estimate the delivery of interim products and the final product.  
+### Delivery Approach & Schedule
+<!-- Estimate the delivery of interim products and the final product.  
 - Delivery Date: YYYY-MM-DD
 -->
 
