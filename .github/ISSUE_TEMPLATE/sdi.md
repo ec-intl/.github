@@ -7,6 +7,7 @@ labels: 'Development Plan'
 ## 📜 Software Development Plan 📜
 ### Purpose
 <!-- State the purpose of this software product. What are the overall goals and objectives? -->
+
 #### Requirements
 <!-- Requirements of the solution. -->
 
@@ -14,7 +15,7 @@ labels: 'Development Plan'
 <!-- A quantitative statement of the specifications that should be met. -->
 
 #### Approach
-<!-- How will you solve the associated probem. -->
+<!-- How will you solve the associated problem. -->
 
 ### Cost/Benefits/Risks
 <!-- Analyze the cost/benefits/risks associated with the proposal. -->
