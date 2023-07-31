@@ -38,9 +38,23 @@ Other Stakeholders:
 <!-- Describe the key results, deliverables, quality expectations, and performance metrics. -->
 
 ### Task Breakdown & Schedule
-<!-- A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results.
-- [ ] Task/PR 1
-- [ ] Task/PR 2 -->
+<!-- A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results. -->
+
+```[tasklist]
+### Preliminary Tasks
+```
+
+```[tasklist]
+### Development Tasks
+```
+
+```[tasklist]
+### Quality Assurance Tasks
+```
+
+```[tasklist]
+### Operations Tasks
+```
 
 ### Reviewers
 <!-- Name the reviewers of this software product.  -->
