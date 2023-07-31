@@ -42,22 +42,21 @@ Other Stakeholders:
 
 ```[tasklist]
 ### Preliminary Tasks
-- [ ] Task/Issue 1
+
 ```
 
 ```[tasklist]
 ### Development Tasks
-- [ ]  Task/Issue 1
+
 ```
 
 ```[tasklist]
 ### Quality Assurance Tasks
-- [ ]  Task/Issue 1
 ```
 
 ```[tasklist]
 ### Operations Tasks
-- [ ]  Task/Issue 1
+
 ```
 
 ### Reviewers
