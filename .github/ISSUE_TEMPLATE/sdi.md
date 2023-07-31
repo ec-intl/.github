@@ -42,12 +42,10 @@ Other Stakeholders:
 
 ```[tasklist]
 ### Preliminary Tasks
-
 ```
 
 ```[tasklist]
 ### Development Tasks
-
 ```
 
 ```[tasklist]
@@ -56,7 +54,6 @@ Other Stakeholders:
 
 ```[tasklist]
 ### Operations Tasks
-
 ```
 
 ### Reviewers
