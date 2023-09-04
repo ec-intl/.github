@@ -1,6 +1,6 @@
 ---
 name: Software Development Plan
-description: This issue describes the plan for a new software product.
+about: This issue describes the plan for a new software product.
 title: Software Development Plan
 labels: "Development Plan"
 ---
