@@ -15,7 +15,7 @@ labels: "Development Plan"
 
 
 #### Quality Criteria
-<!-- A quantitative statement of the solution’s specifications. -->
+<!-- A quantitative statement of the solution's specifications. -->
 
 
 #### Approach
@@ -23,7 +23,7 @@ labels: "Development Plan"
 
 
 ### Cost/Benefits/Risks
-<!-- Analyze the cost/benefits/risks associated with the proposal. -->
+<!-- Analyze the cost/benefits/risks associated with the Proposal. -->
 
 
 ### Personnel and Resources
