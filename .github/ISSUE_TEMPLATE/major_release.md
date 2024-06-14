@@ -29,8 +29,8 @@ labels: "Release Plan"
 
 ### Cost/Benefits/DisBenefits/Risks
 <!--
-    What will it cost in terms of qualified person-hours/compute resources/dollars?
-    How will the product's existance change (for better/for worse) it's operational environment?
+    What will it cost regarding qualified person-hours/compute resources/dollars?
+    How will the product's existence change (for better/for worse) its operational environment?
     What events might delay or disrupt delivery?
 -->
 
@@ -58,7 +58,7 @@ Lead:
 -->
 
 ### Key Results and Deliverables
-<!-- In each issue within the scope of work, state the user stories and chart the atomistic tasks to accomplish it. -->
+<!-- In each issue within the scope of work, state the user stories and chart the atomistic tasks to accomplish them. -->
 
 ```[tasklist]
 ### ScopeofWork vX.Y.0
@@ -69,7 +69,7 @@ Lead:
 ```
 
 ### Delivery Approach & Schedule
-<!-- How and when will you deliver the interim products and the final product?
+<!-- How and when will you deliver the interim and final products?
 - Release Date: YYYY-MM-DD
 -->
 
