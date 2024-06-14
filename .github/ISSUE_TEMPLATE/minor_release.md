@@ -1,6 +1,6 @@
 ---
 name: Minor Release Plan
-about: This issue plans a new release for a fixed period. Use it for small releases containing few features or bug fixes.
+about: This issue plans a new release for a fixed period. Use it for small releases containing few features or bug fixes. This template is a minor release plan. For major releases, use the major release plan template.
 title: Software Release Plan
 labels: "Release Plan"
 ---
@@ -10,6 +10,8 @@ labels: "Release Plan"
 <!-- State the purpose of this software product.
     What is the problem that the software product is trying to solve?
     What are the overall goals and objectives?
+    List the features and bug fixes that will be included in the release.
+    List the user stories that will be included in the release.
 -->
 
 #### Requirements
@@ -39,14 +41,21 @@ Support:
 Reviewers:
 Other Stakeholders:
 -->
+Lead:
 
 ### Composition of the Solution
 <!-- Describe the main components of the software solution.
-    What does it l
+    What does it look like?
+    What are the components?
 -->
 
 ### Inputs
-<!-- Describe the inputs to the software solution. -->
+<!-- Describe the inputs to the software solution.
+    What are my dependencies/assumptions/givens?
+    What are the data sources?
+    What do I need to know?
+    What do I need to have?
+-->
 
 ### Key Results and Deliverables
 <!-- State the user story and chart the atomistic tasks to accomplish it. -->
