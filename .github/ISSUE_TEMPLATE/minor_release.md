@@ -1,81 +1,78 @@
 ---
-name: Software Development Plan
-about: This issue describes the plan for a new software product.
-title: Software Development Plan
-labels: "Development Plan"
+name: Minor Release Plan
+about: This issue plans a new release for a fixed period. Use it for small releases containing few features or bug fixes.
+title: Software Release Plan
+labels: "Release Plan"
 ---
-# Elizabeth Consulting International Inc
-## 📜 Software Development Plan 📜
-### Purpose
-<!-- State the purpose of this software product. What are the overall goals and objectives? -->
+## 📜 Software Release Plan 📜
 
+### Purpose
+<!-- State the purpose of this software product.
+    What is the problem that the software product is trying to solve?
+    What are the overall goals and objectives?
+-->
 
 #### Requirements
-<!-- Requirements of the solution. -->
-
+<!-- Requirements (constraints) of the solution.
+    What must (not) it be, have, or do?
+-->
 
 #### Quality Criteria
-<!-- A quantitative statement of the solution's specifications. -->
-
+<!-- State the solution's quantitative specifications.
+    What makes an acceptable solution to the underlying problem?
+-->
 
 #### Approach
-<!-- How will you solve the associated problem? -->
+<!-- How will you solve the problem? -->
 
-
-### Cost/Benefits/Risks
-<!-- Analyze the cost/benefits/risks associated with the Proposal. -->
-
+### Cost/Benefits/DisBenefits/Risks
+<!--
+    What will it cost in terms of qualified person-hours/compute resources/dollars?
+    How will the product's existance change (for better/for worse) it's operational environment?
+    What events might delay or disrupt delivery?
+-->
 
 ### Personnel and Resources
-<!-- List the resources and personnel required to implement the Proposal. 
-Lead: 
+<!-- List the resources and personnel required to implement the Proposal.
+Lead:
 Support:
 Reviewers:
 Other Stakeholders:
 -->
 
-
 ### Composition of the Solution
-<!-- Describe the main components of the software solution. -->
-
+<!-- Describe the main components of the software solution.
+    What does it l
+-->
 
 ### Inputs
 <!-- Describe the inputs to the software solution. -->
 
-
 ### Key Results and Deliverables
-<!-- Describe the key results, deliverables, quality expectations, and performance metrics. -->
-
-
-### Task Breakdown & Schedule
-<!-- A preliminary list of PRs and a preliminary timeline of PRs, milestones, and key results. -->
-
+<!-- State the user story and chart the atomistic tasks to accomplish it. -->
 
 ```[tasklist]
-### Preliminary Tasks
+### Preliminary/Interface Tasks
 ```
-
 
 ```[tasklist]
 ### Development Tasks
 ```
 
-
 ```[tasklist]
-### Quality Assurance Tasks
+### Quality Tasks
 ```
-
 
 ```[tasklist]
 ### Operations Tasks
 ```
 
-
 ### Delivery Approach & Schedule
-<!-- Estimate the delivery of interim products and the final product.  
-- Delivery Date: YYYY-MM-DD
+<!-- How and when will you deliver the interim products and the final product?
+- Release Date: YYYY-MM-DD
 -->
 
-
 ### CC
-@cmbengue-ec-intl
+<!-- List the stakeholders who should be informed of the proposal. -->
+- @cmbengue-ec-intl
+- @Azendae-Popo
