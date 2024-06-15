@@ -65,6 +65,10 @@ Lead:
 ```
 
 ```[tasklist]
+### Research Tasks
+```
+
+```[tasklist]
 ### Development Tasks
 ```
 
