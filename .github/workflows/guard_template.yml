@@ -2,7 +2,7 @@
 name: Guard Template
 
 env:
-  HEAD:${{ github.event.pull_request.head.ref }}
+  HEAD: ${{ github.event.pull_request.head.ref }}
 
 on:
   workflow_call:

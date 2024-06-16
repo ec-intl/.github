@@ -9,5 +9,5 @@
 
 Here you will find our issue and PR templates.
 
-If you want more information about us, please visit [our site.](https://ec-intl.github.io/)
+If you want more information about us, please visit [our site.](https://ec-intl.github.io/).
 
