@@ -1,6 +1,6 @@
 ---
-name: Minor Release Plan
-about: This issue plans a new release for a fixed period. Use it for small releases containing few features or bug fixes. This template is a minor release plan. For major releases, use the major release plan template.
+name: Major Release Plan
+about: This issue plans a new release for a fixed period. Use it for large releases containing many features or bug fixes. This template is a major release plan. For minor releases, use the minor release plan template.
 title: Software Release Plan
 labels: "Release Plan"
 ---
@@ -58,26 +58,14 @@ Lead:
 -->
 
 ### Key Results and Deliverables
-<!-- State the user story and chart the atomistic tasks to accomplish them. -->
+<!-- In each issue within the scope of work, state the user stories and chart the atomistic tasks to accomplish them. -->
 
 ```[tasklist]
-### Preliminary/Interface Tasks
-```
-
-```[tasklist]
-### Research Tasks
-```
-
-```[tasklist]
-### Development Tasks
-```
-
-```[tasklist]
-### Quality Tasks
-```
-
-```[tasklist]
-### Operations Tasks
+### ScopeofWork vX.Y.0
+- [ ] ScopeofWork vX.Y.0 Development
+- [ ] ScopeofWork vX.Y.0 Research
+- [ ] ScopeofWork vX.Y.0 Operations
+- [ ] ScopeofWork vX.Y.0 QA/QC/QE
 ```
 
 ### Delivery Approach & Schedule
@@ -88,4 +76,5 @@ Lead:
 ### CC
 <!-- List the stakeholders who should be informed of the proposal. -->
 - @cmbengue-ec-intl
+- @ECIMingee
 - @Azendae-Popo
