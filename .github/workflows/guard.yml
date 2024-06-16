@@ -14,5 +14,5 @@ permissions:
 
 jobs:
   guardian-jobs:
-    uses: ec-intl/.github/.github/workflows/guard_template.yml@staging
+    uses: ec-intl/.github/.github/workflows/guard_template.yml@v1.0.0
     secrets: inherit
