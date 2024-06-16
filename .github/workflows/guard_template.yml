@@ -1,6 +1,9 @@
 ---
 name: Guard Template
 
+env:
+  HEAD:${{ github.event.pull_request.head.ref }}
+
 on:
   workflow_call:
 
@@ -20,7 +23,7 @@ jobs:
 
       - name: Guard the main branch
         run: |
-          if [ "${{ github.event.pull_request.head.ref }}" != "staging" ] && [ "${{ github.event.pull_request.head.ref }}" != "" ]; then
+          if [ "$HEAD" != "staging" ] && [ "$HEAD" != "" ]; then
             echo "Pull requests to main must come from staging branch."
             exit 1
           fi

@@ -11,7 +11,6 @@ on:
     types: [auto_merge_enabled]
     branches: [staging]
   merge_group:
-    branches: [staging]
 
 permissions:
   contents: read
@@ -31,3 +30,4 @@ jobs:
         uses: github/super-linter@v5
         env:
           VALIDATE_ALL_CODEBASE: true
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
