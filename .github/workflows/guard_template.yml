@@ -1,0 +1,33 @@
+---
+name: Guard Template
+
+on:
+  workflow_call:
+
+jobs:
+  branch-check:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Preamble
+        run: |
+          echo "🎉 The job was triggered by a ${{ github.event_name }} event."
+          echo "🐧 This job is now running on a ${{ runner.os }} server."
+          echo "🔎 Branch is ${{ github.ref }} in ${{ github.repository }}."
+
+      - name: Check out repository code
+        uses: actions/checkout@v4
+
+      - name: Guard the main branch
+        run: |
+          if [ "${{ github.event.pull_request.head.ref }}" != "staging" ] && [ "${{ github.event.pull_request.head.ref }}" != "" ]; then
+            echo "Pull requests to main must come from staging branch."
+            exit 1
+          fi
+          echo "Current pull request from staging to main is valid."
+
+      - name: Notify
+        run: |
+          echo "📣 The job has been completed."
+          echo "🔔 The main branch is protected."
+          echo "🍏 This job's status is ${{ job.status }}."
