@@ -9,7 +9,9 @@ name: Lint Code Base
 on:
   pull_request:
     types: [auto_merge_enabled]
-    branches: [main]
+    branches: [staging]
+  merge_group:
+    branches: [staging]
 
 permissions:
   contents: read
