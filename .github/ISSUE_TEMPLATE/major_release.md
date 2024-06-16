@@ -1,6 +1,6 @@
 ---
 name: Major Release Plan
-about: This issue plans a new release for a fixed period. Use it for large releases containing many features or bug fixes. This template is a major release plan. For minor releases, use the minor release plan template.
+about: This issue plans a new release for a fixed period. Use it for large releases containing many features or bug fixes. This template is a major release plan ONLY.
 title: Software Release Plan
 labels: "Release Plan"
 ---
