@@ -57,17 +57,6 @@ Lead:
     What do I need to have?
 -->
 
-### Key Results and Deliverables
-<!-- In each issue within the scope of work, state the user stories and chart the atomistic tasks to accomplish them. -->
-
-```[tasklist]
-### ScopeofWork vX.Y.0
-- [ ] ScopeofWork vX.Y.0 Development
-- [ ] ScopeofWork vX.Y.0 Research
-- [ ] ScopeofWork vX.Y.0 Operations
-- [ ] ScopeofWork vX.Y.0 QA/QC/QE
-```
-
 ### Delivery Approach & Schedule
 <!-- How and when will you deliver the interim and final products?
 - Release Date: YYYY-MM-DD
@@ -78,3 +67,14 @@ Lead:
 - @cmbengue-ec-intl
 - @ECIMingee
 - @Azendae-Popo
+
+### Key Results and Deliverables
+<!-- In each issue within the scope of work, state the user stories and chart the atomistic tasks to accomplish them. -->
+
+```[tasklist]
+### ScopeofWork vX.Y.0
+- [ ] ScopeofWork vX.Y.0 Development
+- [ ] ScopeofWork vX.Y.0 Research
+- [ ] ScopeofWork vX.Y.0 Operations
+- [ ] ScopeofWork vX.Y.0 QA/QC/QE
+```
