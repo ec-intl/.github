@@ -57,6 +57,17 @@ Lead:
     What do I need to have?
 -->
 
+### Delivery Approach & Schedule
+<!-- How and when will you deliver the interim and final products?
+- Release Date: YYYY-MM-DD
+-->
+
+### CC
+<!-- List the stakeholders who should be informed of the proposal. -->
+- @cmbengue-ec-intl
+- @ECImingee
+- @Azendae-Popo
+
 ### Key Results and Deliverables
 <!-- State the user story and chart the atomistic tasks to accomplish them. -->
 
@@ -77,15 +88,5 @@ Lead:
 ```
 
 ```[tasklist]
-### Operations Tasks
+### Operations/Maintenance Tasks
 ```
-
-### Delivery Approach & Schedule
-<!-- How and when will you deliver the interim and final products?
-- Release Date: YYYY-MM-DD
--->
-
-### CC
-<!-- List the stakeholders who should be informed of the proposal. -->
-- @cmbengue-ec-intl
-- @Azendae-Popo
