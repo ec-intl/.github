@@ -65,6 +65,7 @@ Lead:
 ### CC
 <!-- List the stakeholders who should be informed of the proposal. -->
 - @cmbengue-ec-intl
+- @ECImingee
 - @Azendae-Popo
 
 ### Key Results and Deliverables
