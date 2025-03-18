@@ -10,9 +10,16 @@ title: Ordinary Task
     What benefits does it bring?
 -->
 
-```[tasklist]
 ### Ordinary Task
-```
+<!-- Describe the task in detail.
+    What is the task?
+    What are the requirements?
+    What are the constraints?
+    What are the quality criteria?
+    What are the acceptance criteria?
+-->
+- [ ] Task 1
+
 <!-- List the required tasks.
     N.B. No sub-issues are allowed.
 -->

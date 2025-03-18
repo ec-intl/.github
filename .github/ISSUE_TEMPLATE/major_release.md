@@ -69,10 +69,9 @@ Lead:
 ### Key Results and Deliverables
 <!-- In each issue within the scope of work, state the user stories and chart the atomistic tasks to accomplish them. -->
 
-```[tasklist]
 ### ScopeofWork vX.Y.0
+
 - [ ] ScopeofWork vX.Y.0 Development
 - [ ] ScopeofWork vX.Y.0 Research
 - [ ] ScopeofWork vX.Y.0 Operations
 - [ ] ScopeofWork vX.Y.0 QA/QC/QE
-```
