@@ -69,22 +69,12 @@ Lead:
 ### Key Results and Deliverables
 <!-- State the user story and chart the atomistic tasks to accomplish them. -->
 
-```[tasklist]
 ### Preliminary/Interface Tasks
-```
 
-```[tasklist]
 ### Research Tasks
-```
 
-```[tasklist]
 ### Development Tasks
-```
 
-```[tasklist]
 ### Quality Tasks
-```
 
-```[tasklist]
 ### Operations/Maintenance Tasks
-```
