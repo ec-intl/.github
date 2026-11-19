@@ -1,0 +1,1 @@
+- chore: Refresh staged issue templates and shared workflow guard configuration.
