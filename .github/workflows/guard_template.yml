@@ -19,7 +19,7 @@ jobs:
           echo "🔎 Branch is ${{ github.ref }} in ${{ github.repository }}."
 
       - name: Check out repository code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
 
       - name: Guard the main branch
         run: |
