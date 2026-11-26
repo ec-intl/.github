@@ -1,4 +1,4 @@
-# .github v1.0.2 — release candidate
+# `.github` v1.0.2 — release candidate
 
 ## Public release automation correction — 2026-11-26
 
