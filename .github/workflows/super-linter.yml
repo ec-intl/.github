@@ -8,7 +8,7 @@ name: Lint Code Base
 
 on:
   pull_request:
-    types: [auto_merge_enabled]
+    types: [opened, synchronize, reopened, ready_for_review, auto_merge_enabled]
     branches: [staging]
   merge_group:
 
@@ -21,7 +21,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
-        uses: actions/checkout@v4
+        uses: actions/checkout@v6
         with:
           # Full git history is needed to get a proper list of changed files within `super-linter`
           fetch-depth: 0
